@@ -1,14 +1,14 @@
 #pragma once
 
 // WiFi
-#define WIFI_SSID "HomeIoT"
-#define WIFI_PASS "FdsaJkl121212"
+#define WIFI_SSID "WIFI-NET"
+#define WIFI_PASS "WIFI-PASS"
 
 // MQTT
-#define MQTT_HOST "192.168.178.10"
+#define MQTT_HOST "192.168.xxx.xxx"
 #define MQTT_PORT 1883
-#define MQTT_USER "svcmqtt"
-#define MQTT_PASS "FdsaJkl#121212"
+#define MQTT_USER "mqtt-user"
+#define MQTT_PASS "mqtt-pass"
 
 // Hood features
 // Set to false if your hood has no retractable cover (lift function).
